@@ -5,5 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalhossainmohon&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalhossainmohon" /> </p>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<ul>
+  <li>🔭 I’m currently working on <b>Basic Projects for Learning purpose</b></li>
+  <li>🌱 I’m currently learning <b>JavaScript, React, MongoDB</b></li>
+  <li>👯 I’m looking to collaborate on Globally</li>
+  <li>🤝 I’m looking for help with <b>Web Application Design & Development</b></li>
+  <li>👨‍💻 All of my projects are available at https://github.com/iqbalhossainmohon</li>
+  <li>📫 How to reach me iqbalhossainmohon3057@gmail.com</li>
+  <li>⚡ Fun fact <b>I think I am funny</b></li>
+</ul>
+
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=iqbalhossainmohon&show_icons=true&theme=radical" />
 <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhossainmohon&layout=compact" />
