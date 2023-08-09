@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbalhossainmohon&label=Profile%20views&color=0e75b6&style=flat" alt="iqbalhossainmohon" /> </p>
 
-
-
 <ul>
   <li>🔭 I’m currently working on <b>Basic Projects for Learning purpose</b></li>
   <li>🌱 I’m currently learning <b>JavaScript, React, MongoDB</b></li>
@@ -23,10 +21,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009488127818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mh.jibon.1840" height="30" width="40" /></a>
 </p>
 
-
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=iqbalhossainmohon&show_icons=true&theme=radical" />
 <img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalhossainmohon&layout=compact" />
 
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iqbalhossainmohon&" alt="iqbalhossainmohon" /></p>
-
