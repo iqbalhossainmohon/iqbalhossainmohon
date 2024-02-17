@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi👋, I'm Iqbal Hossain</h1>
 
+<h3 align="center">A passionate MERN-Stack developer from Bangladesh</h3>
+
 
 
 Here are some ideas to get you started:
